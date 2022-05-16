@@ -18,4 +18,6 @@ Using a Zettelkasten is about optimizing your workflow of learning and producing
 - Ruby on rails
 - PostgresSQL
 - Elasticsearch
+- Redis
+- AWS
 
